@@ -1,0 +1,34 @@
+{
+  "symbol": "RET",
+  "address": "0x10b9dd394467f2CFbc769e07E88dC7e2c41B0965",
+  "decimals": 9,
+  "name": "Renewable Energy Token",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://ret.life",
+  "logo": {
+    "src": "https://ret.life/ico/LOGO.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "bussiness@ret.life",
+    "url": "https://ret.life"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/RETokenofficiall",
+    "gitter": "",
+    "instagram": "https://instagram.com/bscretoken",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/u/bscretoken",
+    "slack": "",
+    "telegram": "https://t.me/RETOKENOFFICIAL",
+    "twitter": "https://twitter.com/BscRetoken",
+    "youtube": "https://www.youtube.com/channel/UCPZ05jlTreEobamWeRYTfYg"
+  }
+}
